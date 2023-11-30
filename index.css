@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+    font-size: large;
+}
+
+h4 { 
+    text-align: center;
+}
+fieldset {
+    padding: 50px
+}
+.navbar {
+    overflow: hidden;
+    background-color: #000000;
+}
+  
+  .navbar a {
+    float: left;
+    font-size: 16px;
+    color: aliceblue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.buttons {
+    text-align: center;
+    margin-top: 20px;
+  }
+  .buttons button {
+    margin: 5px;
+  }
+
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: #aa9f9f;
+}
